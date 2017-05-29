@@ -1,0 +1,5 @@
+/Users/anthony/Projects/TestProject/TestProject/bin/TestProject.dll
+/Users/anthony/Projects/TestProject/TestProject/bin/TestProject.pdb
+/Users/anthony/Projects/TestProject/TestProject/obj/Debug/TestProject.csproj.CoreCompileInputs.cache
+/Users/anthony/Projects/TestProject/TestProject/obj/Debug/TestProject.dll
+/Users/anthony/Projects/TestProject/TestProject/obj/Debug/TestProject.pdb

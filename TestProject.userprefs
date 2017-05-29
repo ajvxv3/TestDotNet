@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7079D491-CE7F-4A70-88AA-989BEFBBB1E6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestProject/Default.aspx">
+    <Files>
+      <File FileName="TestProject/Default.aspx" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestProject" expanded="True">
+            <Node name="TestProject" expanded="True">
+              <Node name="Default.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
